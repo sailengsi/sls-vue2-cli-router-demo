@@ -1,18 +1,7 @@
-# vue-interview-web
+# sls-vue2-cli-router-demo
 
-> vue2 interview web
+## 演示
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+### GitHub：[https://sailengsi.github.io/sls-vue2-cli-router-demo/dist/](https://sailengsi.github.io/sls-vue2-cli-router-demo/dist/)
+### Gitee：[https://sailengsi.gitee.io/sls-vue2-cli-router-demo/dist/](https://sailengsi.gitee.io/sls-vue2-cli-router-demo/dist/)
+### Coding：[https://sailengsi.coding.me/sls-vue2-cli-router-demo/dist/](https://sailengsi.coding.me/sls-vue2-cli-router-demo/dist/)
